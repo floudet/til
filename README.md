@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -23,6 +23,7 @@ _8 TILs and counting..._
 ### Mac
 
 - [Disable Sleep After Locking Screen](mac/disable-sleep-after-locking-screen.md)
+- [Reset DNS Cache](mac/reset-dns-cache.md)
 
 ### Subversion
 
