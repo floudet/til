@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _13 TILs and counting..._
 
 * [Linux](#linux)
 * [Mac](#mac)
+* [PostgreSQL](#postgresql)
 * [Subversion](#subversion)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -29,6 +30,10 @@ _13 TILs and counting..._
 
 - [Disable Sleep After Locking Screen](mac/disable-sleep-after-locking-screen.md)
 - [Reset DNS Cache](mac/reset-dns-cache.md)
+
+### PostgreSQL
+
+- [Expanded Display](postgres/expanded-display.md)
 
 ### Subversion
 
