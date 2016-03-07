@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -45,6 +45,7 @@ _16 TILs and counting..._
 - [Create Directory Set Permissions And Ownership](unix/create-directory-and-set-permissions.md)
 - [Find Symbolic Links Chain Final Target](unix/find-symbolic-links-chain-final-target.md)
 - [Fix Terminal Weirdness](unix/fix-terminal-weirdness.md)
+- [Ignore Directories With Tree](unix/ignore-directories-with-tree.md)
 - [Simulate The Cron Environment](unix/simulate-the-cron-environment.md)
 
 ### Vim
