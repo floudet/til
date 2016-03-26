@@ -7,13 +7,14 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_26 TILs and counting..._
+_27 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Chrome](#chrome)
+* [Cisco](#cisco)
 * [Git](#git)
 * [Linux](#linux)
 * [Mac](#mac)
@@ -23,9 +24,14 @@ _26 TILs and counting..._
 * [Vim](#vim)
 
 ---
+
 ### Chrome
 
 - [Reload Proxy Settings](chrome/reload-proxy-settings.md)
+
+### Cisco
+
+- [Switches Model Numbering Scheme](cisco/switches-model-numbering-scheme.md)
 
 ### Git
 
