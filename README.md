@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_27 TILs and counting..._
+_28 TILs and counting..._
 
 ---
 
@@ -75,6 +75,7 @@ _27 TILs and counting..._
 - [Count Lines Or Words](vim/count-lines-or-words.md)
 - [File Path And Name Completion In Insert Mode](vim/file-path-and-name-completion-in-insert-mode.md)
 - [Format JSON](vim/format-json.md)
+- [Name Of Current File](vim/name-of-current-file.md)
 - [Open Current HTML File In A Web Browser](vim/open-current-html-file-in-web-browser.md)
 - [Perform A Case Insensitive Search](vim/perform-a-case-insensitive-search.md)
 - [Sort Lines](vim/sort-lines.md)
