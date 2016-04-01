@@ -10,5 +10,5 @@ That will usually succeed in bringing the shell to reason and making it operate 
 
 The `reset` command is also often effective at fixing a messed up terminal.
 
-source: *Running Linux, 5th Edition - O'Reilly* 
+Source: *Running Linux, 5th Edition - O'Reilly* (p.112)
 
