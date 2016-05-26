@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_37 TILs and counting..._
+_38 TILs and counting..._
 
 ---
 
@@ -47,6 +47,7 @@ _37 TILs and counting..._
 
 - [Disable Sleep After Locking Screen](mac/disable-sleep-after-locking-screen.md)
 - [Reset DNS Cache](mac/reset-dns-cache.md)
+- [Set Proxy Configuration File](mac/set-proxy-configuration-file.md)
 
 ### MySQL
 
