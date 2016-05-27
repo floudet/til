@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_38 TILs and counting..._
+_39 TILs and counting..._
 
 ---
 
@@ -37,6 +37,7 @@ _38 TILs and counting..._
 ### Git
 
 - [Colored Output](git/colored-output.md)
+- [Show Last Commit Differences](git/show-last-commit-differences.md)
 
 ### Linux
 
