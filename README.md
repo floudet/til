@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_42 TILs and counting..._
+_43 TILs and counting..._
 
 ---
 
@@ -80,6 +80,7 @@ _42 TILs and counting..._
 - [Is My Terminal A Screen](unix/is-my-terminal-a-screen.md)
 - [List Only Directories](unix/list-only-directories.md)
 - [Open Command In Default Editor](unix/open-command-in-default-editor.md)
+- [Pipe Output To root-owned File](unix/pipe-output-to-root-owned-file.md)
 - [Replace String In Last Command](unix/replace-string-in-last-command.md)
 - [Simulate The Cron Environment](unix/simulate-the-cron-environment.md)
 - [Sort Folder Contents By Size With Human Readable Format](unix/sort-folder-contents-by-size-with-human-readable-format.md)
