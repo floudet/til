@@ -14,3 +14,9 @@ You can also use the `-o` option to open each file into a window of its own.
 vim -o file1.txt file2.txt file3.txt
 ```
 
+`-O` does the same thing but with vertical splits.
+
+```
+vim -O file1.txt file2.txt file3.txt
+```
+
