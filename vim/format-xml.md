@@ -10,3 +10,4 @@ As with JSON, formatting XML can be achieved by using Vim's ability to run utili
 
 On Debian-based systems, `xmllint` is part of the `libxml2-utils` package.
 
+[Source](http://ku1ik.com/2011/09/08/formatting-xml-in-vim-with-indent-command.html)
