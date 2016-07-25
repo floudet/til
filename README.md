@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_49 TILs and counting..._
+_50 TILs and counting..._
 
 ---
 
@@ -55,6 +55,7 @@ _49 TILs and counting..._
 ### MySQL
 
 - [Show Current Database](mysql/show-current-database.md)
+- [Write Query Result To File](mysql/write-query-result-to-file.md)
 
 ### PostgreSQL
 
