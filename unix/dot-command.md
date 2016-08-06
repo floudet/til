@@ -8,4 +8,4 @@ Example:
 $ . ~/.bashrc
 ```
 
-Source: [https://www.cbtnuggets.com](CBT Nuggets) - *LPI Linux LPIC-1 and CompTIA Linux+ Prep, Scripting Basics*
+Source: [https://www.cbtnuggets.com](CBT Nuggets) - *LPI Linux LPIC-1 and CompTIA Linux+ Prep* (46. User Profiles & System Profiles)
