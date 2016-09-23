@@ -7,7 +7,7 @@ It's actually as easy as specifying the `-L` (or `-D`) option as much times as n
 On the example below, we want to open a RDP connection to 2 servers on a remote private network for which we can only reach a jump host through SSH from the outside.  
 
 ```bash
-ssh -L 5905:172.16.0.20:443 -L 5906:172.16.0.21:443 floudet@bastion.example.com
+ssh -L 5905:172.16.0.20:3389 -L 5906:172.16.0.21:3389 floudet@bastion.example.com
 ```
 
 Then on the local machine we just have to use our favorite RDC software and connect to localhost (127.0.0.1) port 5905 or 5906 to reach either server.  
