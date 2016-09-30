@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_61 TILs and counting..._
+_62 TILs and counting..._
 
 ---
 
@@ -63,6 +63,7 @@ _61 TILs and counting..._
 ### PostgreSQL
 
 - [Expanded Display](postgres/expanded-display.md)
+- [Output To File](postgres/output-to-file.md)
 - [Reset Auto Increment Counter](postgres/reset-auto-increment-counter.md)
 - [Use A pgpass File To Avoid Typing Passwords](postgres/use-a-pgpass-file-to-avoid-typing-passwords.md)
 
