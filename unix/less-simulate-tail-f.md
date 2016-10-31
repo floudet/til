@@ -2,7 +2,7 @@
 
 `less` is used on Unix-like systems to view the contents of a text file. 
 
-When in less, hit <kbd>F</kbd> to wait for additional data to be appended to the input (like `tail -f` would do).
+When in less, hit <kbd>shift</kbd>+<kbd>F</kbd> (Capital 'F') to wait for additional data to be appended to the input (like `tail -f` would do).
 
 `Waiting for data... (interrupt to abort)` will be displayed at the bottom of the screen and any new content appended to the file will be displayed automatically.
 
