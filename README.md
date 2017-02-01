@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_73 TILs and counting..._
+_74 TILs and counting..._
 
 ---
 
@@ -117,6 +117,7 @@ _73 TILs and counting..._
 ### Vim
 
 - [Automatic Indentation](vim/automatic-indentation.md)
+- [Browse Tarfiles](vim/browse-tarfiles.md)
 - [Close All Splits But Current One](vim/close-all-splits-but-current-one.md)
 - [Copy Lines To OS X Clipboard](vim/copy-lines-to-os-x-clipboard.md)
 - [Count Lines Or Words](vim/count-lines-or-words.md)
