@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_74 TILs and counting..._
+_75 TILs and counting..._
 
 ---
 
@@ -111,6 +111,7 @@ _74 TILs and counting..._
 - [Simulate The Cron Environment](unix/simulate-the-cron-environment.md)
 - [ssh-copy-id On A Different Port](unix/ssh-copy-id-on-a-different-port.md)
 - [Sort Folder Contents By Size With Human Readable Format](unix/sort-folder-contents-by-size-with-human-readable-format.md)
+- [sudo Preserve Environment](unix/sudo-preserve-environment.md)
 - [View Overlapping Man Page](unix/view-overlapping-man-page.md)
 - [xargs Arguments Placement](unix/xargs-arguments-placement.md)
 
