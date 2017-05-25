@@ -7,12 +7,13 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_79 TILs and counting..._
+_80 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Chef](#chef)
 * [Chrome](#chrome)
 * [Cisco](#cisco)
 * [Git](#git)
@@ -26,6 +27,9 @@ _79 TILs and counting..._
 * [Vim](#vim)
 
 ---
+
+### Chef
+- [Knife Search Nested Attributes](chef/knife-search-nested-attributes.md)
 
 ### Chrome
 
