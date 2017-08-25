@@ -18,3 +18,10 @@ fabien@tianhe-2:~$ sudo cat /root/file.txt
 hello world
 ```
 
+Another solution, more expensive resources-wise, is to call a new shell with the `-c` option (supported by sh/bash/zsh):
+
+```bash
+fabien@tianhe-2:~$ sudo sh -c "echo hello world > /root/file.txt"
+fabien@tianhe-2:~$ sudo cat /root/file.txt
+hello world
+```
