@@ -39,8 +39,8 @@ _86 TILs and counting..._
 
 ### Cisco
 
-- [Switches Model Numbering Scheme](cisco/switches-model-numbering-scheme.md)
 - [grep IOS output](cisco/grep-ios-output.md)
+- [Switches Model Numbering Scheme](cisco/switches-model-numbering-scheme.md)
 
 ### Git
 

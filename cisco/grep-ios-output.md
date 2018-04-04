@@ -1,6 +1,6 @@
 # 'grep' IOS output
 
-include ('i') filters all lines that match the criteria. 
+`include` ('`i`') filters all lines that match the criteria. 
 
 Example:
 ```
@@ -14,3 +14,5 @@ crypto map IPSEC 5 set peer 219.143.253.6
 ```
 
 [Source](https://supportforums.cisco.com/t5/ip-telephony/grep-in-ios-output/td-p/2186041)
+
+**Note:** The '`s`' or '`section`' option specified in the page above didn't work on a *Cisco ASA5515-K9*. 
