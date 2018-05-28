@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_86 TILs and counting..._
+_87 TILs and counting..._
 
 ---
 
@@ -29,6 +29,7 @@ _86 TILs and counting..._
 ---
 
 ### Chef
+- [Knife List Data Bag Items](chef/knife-list-data-bag-items.md)
 - [Knife Search Nested Attributes](chef/knife-search-nested-attributes.md)
 - [Knife Show Nested Attribute](chef/knife-show-nested-attribute.md)
 - [Run Single Recipes On Node](chef/run-single-recipes-on-node.md)
