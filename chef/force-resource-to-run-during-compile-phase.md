@@ -31,5 +31,5 @@ Our example above, corrected:
   run_mybinary.error!
 ```
 
-[Source](https://docs.chef.io/resource_common/#run_action)
+[Source](https://docs.chef.io/resource_common/#run_action)  
 [More on Chef two-pass model](https://coderanger.net/two-pass)
