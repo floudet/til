@@ -7,7 +7,7 @@ file until I came across [this post](https://news.ycombinator.com/item?id=110689
 Then I decided to steal this great idea to create my own TIL with all the 
 findings I make during my work and nonwork-related activities. 
 
-_88 TILs and counting..._
+_89 TILs and counting..._
 
 ---
 
@@ -29,6 +29,7 @@ _88 TILs and counting..._
 ---
 
 ### Chef
+- [Force Resource to Run During Compile Phase](chef/force-resource-to-run-during-compile-phase.md)
 - [Knife List Data Bag Items](chef/knife-list-data-bag-items.md)
 - [Knife Search Nested Attributes](chef/knife-search-nested-attributes.md)
 - [Knife Show Nested Attribute](chef/knife-show-nested-attribute.md)
